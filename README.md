@@ -9,7 +9,8 @@
 Il s’agit de créer des classes pour modéliser une partie de pocker.  
 
 ### 1. Une carte  
-Compléter la classe Carte suivante :  
+Compléter la classe Carte suivante :   
+
 '''python
 from random import randrange
 
