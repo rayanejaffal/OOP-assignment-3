@@ -4,7 +4,7 @@
 #### Course: POO et traitement des données en Python
 #### Prof: Jacquelin Charbonnel
 
-### Poker  
+## Poker  
 
 Il s’agit de créer des classes pour modéliser une partie de pocker.  
 
