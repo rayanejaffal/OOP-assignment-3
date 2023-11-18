@@ -11,7 +11,7 @@ Il s’agit de créer des classes pour modéliser une partie de pocker.
 ### 1. Une carte  
 Compléter la classe Carte suivante :   
 
-'''python
+"""python
 from random import randrange
 
 class Carte():
@@ -31,7 +31,7 @@ class Carte():
       c = Carte.couleurs[randrange(0,len(Carte.couleurs))]
     self.couleur = c
     self.valeur = v
-'''
+"""
 
 de façon à pouvoir écrire :
 
