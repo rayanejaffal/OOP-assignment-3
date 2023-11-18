@@ -24,13 +24,11 @@ class Carte():
         raise ValueError(f"{v}: valeur incorrecte")
     else:
       v = Carte.valeurs[randrange(0,len(Carte.valeurs))]
-
     if c:
       if not c in Carte.couleurs:
         raise ValueError(f"{c}: couleur incorrecte")
     else:
       c = Carte.couleurs[randrange(0,len(Carte.couleurs))]
-
     self.couleur = c
     self.valeur = v
 '''
